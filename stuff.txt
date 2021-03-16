@@ -1,0 +1,7 @@
+I/O part:
+Get a directory;
+Get some text input;
+
+Smart part:
+Recursively get all files in that directory and perform grep on each ?
+
